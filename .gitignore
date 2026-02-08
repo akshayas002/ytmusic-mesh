@@ -1,0 +1,32 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Authentication / Secrets
+headers_auth.json
+*.key
+*.pem
+
+# Data files
+lib.csv
+*.sqlite3
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
